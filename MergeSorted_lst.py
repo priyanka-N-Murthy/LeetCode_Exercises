@@ -1,5 +1,5 @@
 def Merge_lst(l1,l2):
-    l=[]
+
     
     for i in xrange(0,len(l1)):
         for j in xrange(0,len(l2)):
